@@ -1,0 +1,30 @@
+body{
+    background-color: pink;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgba(255, 128, 0, 0.815);
+
+
+}
+head{
+        background-color: pink;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: rgba(255, 128, 0, 0.815);
+
+}
+footer{
+    body{
+        background-color: pink;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: rgba(255, 128, 0, 0.815);
+    }
+}
+p{
+    background-color: pink;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgba(255, 128, 0, 0.815);
+    width: 300px;
+    border: 15px solid hotpink;
+    padding: 50px;
+    margin: 20px; 
+}
+
